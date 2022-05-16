@@ -7,6 +7,7 @@
 
   <p align="center">This is a code repository for bookmark api using <a href="http://nodejs.org" target="_blank">Next.js</a></p>
     <p align="center">
+<br/>
 ## Description
 
 <p>This bookmark api can store user as well as there bookmarks in the db</p>
