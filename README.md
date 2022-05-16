@@ -9,7 +9,7 @@
     <p align="center">
 ## Description
 
-This bookmark api can store user as well as there bookmarks in the db
+<p>This bookmark api can store user as well as there bookmarks in the db</p>
 
 ## Installation
 
