@@ -5,7 +5,7 @@
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
-  <p align="center">This is a code repository for bookmark api using <a href="http://nodejs.org" target="_blank">Next.js</a></p>
+  <p align="center">This is a code repository for bookmark api using <a href="https://nestjs.com/" target="_blank">Nest.js</a></p>
     <p align="center">
 
 ## Description
